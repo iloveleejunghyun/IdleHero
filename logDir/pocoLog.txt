@@ -1,0 +1,110 @@
+[2021-08-30  12:33:38] [INFO] <util> <D:\IdleHero.air\util.py]> (101) touch (1170, 934), index = 0
+[2021-08-30  12:33:41] [INFO] <util> <D:\IdleHero.air\util.py]> (111) Found 角色
+[2021-08-30  12:33:42] [INFO] <util> <D:\IdleHero.air\util.py]> (101) touch (518, 167), index = 0
+[2021-08-30  12:33:45] [INFO] <util> <D:\IdleHero.air\util.py]> (111) Found 属性和装备
+[2021-08-30  12:33:47] [INFO] <util> <D:\IdleHero.air\util.py]> (101) touch (1437, 164), index = 0
+[2021-08-30  12:34:05] [INFO] <util> <D:\IdleHero.air\util.py]> (111) Found 关闭
+[2021-08-30  12:34:05] [INFO] <__main__> <D:\IdleHero.air\IdleHero.py]> (137) check status = True
+[2021-08-30  12:56:16] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (1578, 324), index = 0
+[2021-08-30  12:56:19] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 角色
+[2021-08-30  12:56:34] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (113) Didn't find 属性和装备
+[2021-08-30  12:56:40] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (1170, 934), index = 0
+[2021-08-30  12:56:43] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 角色
+[2021-08-30  12:56:43] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (518, 167), index = 0
+[2021-08-30  12:56:46] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 属性和装备
+[2021-08-30  12:56:49] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (1437, 164), index = 0
+[2021-08-30  12:57:06] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 关闭
+[2021-08-30  12:57:06] [INFO] <util> <D:\IdleHero\IdleHero.air\IdleHero.py]> (101) check status = True
+[2021-08-30  12:59:30] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (113) Didn't find 角色
+[2021-08-30  12:59:38] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (113) Didn't find 属性和装备
+[2021-08-30  12:59:52] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (113) Didn't find 角色
+[2021-08-30  13:00:00] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (113) Didn't find 属性和装备
+[2021-08-30  13:00:14] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (113) Didn't find 角色
+[2021-08-30  13:00:22] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (113) Didn't find 属性和装备
+[2021-08-30  13:00:27] [INFO] <util> <D:\IdleHero\IdleHero.air\IdleHero.py]> (101) check status = False
+[2021-08-30  13:00:27] [INFO] <util> <D:\IdleHero\IdleHero.air\IdleHero.py]> (103) kill Idle Hero
+[2021-08-30  13:00:28] [INFO] <util> <D:\IdleHero\IdleHero.air\IdleHero.py]> (22) []
+[2021-08-30  13:00:38] [INFO] <util> <D:\IdleHero\IdleHero.air\IdleHero.py]> (106) start Idle Hero
+[2021-08-30  13:00:48] [INFO] <util> <D:\IdleHero\IdleHero.air\IdleHero.py]> (109) begin the game
+[2021-08-30  13:00:52] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch [968, 641], index = 0
+[2021-08-30  13:00:56] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (967, 639), index = 0
+[2021-08-30  13:01:18] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 开始游戏
+[2021-08-30  13:01:20] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (1033, 590), index = 0
+[2021-08-30  13:01:36] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 读取存档
+[2021-08-30  13:01:38] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (968, 934), index = 0
+[2021-08-30  13:01:41] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 远征
+[2021-08-30  13:01:42] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (506, 242), index = 0
+[2021-08-30  13:01:45] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 远征战斗
+[2021-08-30  13:01:46] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (826, 635), index = 0
+[2021-08-30  13:02:01] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 挂机
+[2021-08-30  13:02:02] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (228, 140), index = 0
+[2021-08-30  13:02:19] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 退出战斗界面
+[2021-08-30  13:02:21] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (968, 934), index = 0
+[2021-08-30  13:02:24] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 远征
+[2021-08-30  13:02:25] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (806, 250), index = 0
+[2021-08-30  13:02:28] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 月之秘境
+[2021-08-30  13:02:28] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (826, 635), index = 0
+[2021-08-30  13:02:44] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 挂机
+[2021-08-30  13:02:45] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (226, 142), index = 0
+[2021-08-30  13:03:03] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 退出战斗界面
+[2021-08-30  13:03:05] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (968, 934), index = 0
+[2021-08-30  13:03:08] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 远征
+[2021-08-30  13:03:09] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (658, 249), index = 0
+[2021-08-30  13:03:12] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 矿洞
+[2021-08-30  13:03:13] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (690, 700), index = 0
+[2021-08-30  13:03:26] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 战斗开始
+[2021-08-30  13:03:27] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (227, 142), index = 0
+[2021-08-30  13:03:44] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 退出战斗界面
+[2021-08-30  13:03:46] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (968, 934), index = 0
+[2021-08-30  13:03:49] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 远征
+[2021-08-30  13:03:50] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (734, 251), index = 0
+[2021-08-30  13:03:53] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 丛林
+[2021-08-30  13:03:54] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (690, 700), index = 0
+[2021-08-30  13:04:10] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 战斗开始
+[2021-08-30  13:04:11] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (227, 142), index = 0
+[2021-08-30  13:04:27] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 退出战斗界面
+[2021-08-30  13:04:29] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (968, 934), index = 0
+[2021-08-30  13:04:32] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 远征
+[2021-08-30  13:04:33] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (879, 250), index = 0
+[2021-08-30  13:04:36] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 太阳秘境
+[2021-08-30  13:04:37] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (826, 635), index = 0
+[2021-08-30  13:04:51] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 挂机
+[2021-08-30  13:04:52] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (227, 141), index = 0
+[2021-08-30  13:05:09] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 退出战斗界面
+[2021-08-30  13:18:00] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (1170, 934), index = 0
+[2021-08-30  13:18:03] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 角色
+[2021-08-30  13:18:03] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (518, 167), index = 0
+[2021-08-30  13:18:06] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 属性和装备
+[2021-08-30  13:18:08] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (1437, 164), index = 0
+[2021-08-30  13:18:25] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 关闭
+[2021-08-30  13:18:25] [INFO] <util> <D:\IdleHero\IdleHero.air\IdleHero.py]> (101) check status = True
+[2021-08-30  13:33:53] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (1170, 934), index = 0
+[2021-08-30  13:33:56] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 角色
+[2021-08-30  13:33:57] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (518, 167), index = 0
+[2021-08-30  13:34:00] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 属性和装备
+[2021-08-30  13:34:02] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (1437, 164), index = 0
+[2021-08-30  13:34:20] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 关闭
+[2021-08-30  13:34:20] [INFO] <util> <D:\IdleHero\IdleHero.air\IdleHero.py]> (101) check status = True
+[2021-08-30  13:50:26] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (113) Didn't find TeamViewer发起会话
+[2021-08-30  13:50:27] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (1170, 934), index = 0
+[2021-08-30  13:50:30] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 角色
+[2021-08-30  13:50:31] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (518, 167), index = 0
+[2021-08-30  13:50:34] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 属性和装备
+[2021-08-30  13:50:36] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (1437, 164), index = 0
+[2021-08-30  13:54:41] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (113) Didn't find TeamViewer发起会话
+[2021-08-30  13:56:55] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (113) Didn't find TeamViewer发起会话
+[2021-08-30  13:58:13] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (113) Didn't find TeamViewer发起会话
+[2021-08-30  14:07:10] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (649, 454), index = 0
+[2021-08-30  14:08:49] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (1141, 577), index = 0
+[2021-08-30  14:08:52] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found TeamViewer发起会话
+[2021-08-30  14:08:53] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (1170, 934), index = 0
+[2021-08-30  14:08:56] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 角色
+[2021-08-30  14:08:57] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (518, 167), index = 0
+[2021-08-30  14:09:00] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 属性和装备
+[2021-08-30  14:09:00] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (1897, 553), index = 0
+[2021-08-30  14:09:04] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (1897, 553), index = 0
+[2021-08-30  14:09:08] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (101) touch (1897, 553), index = 0
+[2021-08-30  14:09:11] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 关闭
+[2021-08-30  14:09:11] [INFO] <util> <D:\IdleHero\IdleHero.air\IdleHero.py]> (109) check status = True
+[2021-08-30  13:50:53] [INFO] <util> <D:\IdleHero\IdleHero.air\util.py]> (111) Found 关闭
+[2021-08-30  14:09:19] [INFO] <util> <D:\IdleHero\IdleHero.air\IdleHero.py]> (105) check status = True
